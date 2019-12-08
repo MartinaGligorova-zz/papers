@@ -1,3 +1,5 @@
+Zaklucok:
+
 Sekcija za figures:
 
 Sekcija za rezultati:
