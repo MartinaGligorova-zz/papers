@@ -1,3 +1,5 @@
+Sekcija za figures:
+
 Sekcija za rezultati:
 
 Nekoja referenca
