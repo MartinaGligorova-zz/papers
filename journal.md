@@ -9,6 +9,9 @@ Vtora referenca sto sme zaboravile prvicno da ja stavime
 
 Introduction section
 
-Martina Gligorovoa
+John S.
+Martina Gligorova
+Davor G.
+
 
 Paper title: Git vezba
