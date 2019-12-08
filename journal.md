@@ -4,5 +4,6 @@ Vtora referenca sto sme zaboravile prvicno da ja stavime
 Introduction section
 
 Martina Gligorovoa
+John Smith
 
-Paper title: Git vezba
+Paper title: Naslov na vezba Git
