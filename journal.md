@@ -1,3 +1,5 @@
+Edit file to resolve merge conflict
+
 Author affiliations:
 
 Zaklucok:
@@ -13,7 +15,7 @@ Introduction section
 
 John S.
 Martina Gligorova
-Davor G.
+
 
 
 Paper title: Git vezba
